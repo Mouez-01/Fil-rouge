@@ -179,7 +179,7 @@ ul {
             <tr>
                 <th>IP</th>
                 <th>Nom d'hote</th>
-                <th>Adresse Mac</th>
+                <th>Adresse Mac / PC 1 </th>
             </tr>
                 </thead>
                 <tbody id="clients">
